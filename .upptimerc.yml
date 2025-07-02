@@ -15,7 +15,7 @@ status-website:
   
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.advancedarmorstands.ir
-  themeUrl: https://status.advancedarmorstands.ir/assets/index.css
+  themeUrl: https://status.advancedarmorstands.ir/index.css
 
   # baseUrl: /your-repo-name
   logoUrl: https://docs.advancedarmorstands.ir/img/logo.svg
