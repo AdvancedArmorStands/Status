@@ -14,8 +14,11 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.advancedarmorstands.ir
+  themeUrl: https://status.advancedarmorstands.ir/assets/index.css
+
   # baseUrl: /your-repo-name
   logoUrl: https://docs.advancedarmorstands.ir/img/logo.svg
+  faviconSvg: https://docs.advancedarmorstands.ir/img/logo.svg
   name: AdvancedArmorStands
   introTitle: "A better way to create and customize armor stands."
   introMessage: ""
