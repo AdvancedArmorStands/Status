@@ -8,7 +8,7 @@ sites:
     url: https://advancedarmorstands.ir/
   - name: Documation
     url: https://docs.advancedarmorstands.ir/
-  - name: Repository
+  - name: Maven Repository
     url: https://repo.advancedarmorstands.ir/
 
 status-website:  
