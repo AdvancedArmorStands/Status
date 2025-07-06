@@ -12,8 +12,10 @@ sites:
 
 status-website:  
   cname: status.advancedarmorstands.ir
+  
   # themeUrl: https://status.advancedarmorstands.ir/index.css
   # baseUrl: /your-repo-name
+  
   logoUrl: https://docs.advancedarmorstands.ir/img/logo.svg
   faviconSvg: https://docs.advancedarmorstands.ir/img/logo.svg
   name: AdvancedArmorStands
