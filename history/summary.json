@@ -4,53 +4,59 @@
     "url": "https://advancedarmorstands.ir/",
     "icon": "https://icons.duckduckgo.com/ip3/advancedarmorstands.ir.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 408,
-    "timeDay": 272,
-    "timeWeek": 305,
-    "timeMonth": 413,
-    "timeYear": 408,
-    "dailyMinutesDown": {}
+    "time": 405,
+    "timeDay": 244,
+    "timeWeek": 293,
+    "timeMonth": 407,
+    "timeYear": 405,
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   },
   {
     "name": "Documation",
     "url": "https://docs.advancedarmorstands.ir/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.advancedarmorstands.ir.ico",
     "slug": "documation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 307,
-    "timeWeek": 1030,
-    "timeMonth": 525,
-    "timeYear": 464,
-    "dailyMinutesDown": {}
+    "time": 459,
+    "timeDay": 261,
+    "timeWeek": 928,
+    "timeMonth": 515,
+    "timeYear": 459,
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   },
   {
     "name": "Maven Repository",
     "url": "https://repo.advancedarmorstands.ir/",
     "icon": "https://icons.duckduckgo.com/ip3/repo.advancedarmorstands.ir.ico",
     "slug": "maven-repository",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 362,
-    "timeDay": 273,
-    "timeWeek": 274,
-    "timeMonth": 348,
-    "timeYear": 362,
-    "dailyMinutesDown": {}
+    "time": 359,
+    "timeDay": 248,
+    "timeWeek": 268,
+    "timeMonth": 344,
+    "timeYear": 359,
+    "dailyMinutesDown": {
+      "2025-08-14": 0
+    }
   }
 ]
