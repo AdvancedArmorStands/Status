@@ -15,9 +15,11 @@ status-website:
   
   # themeUrl: https://status.advancedarmorstands.ir/index.css
   # baseUrl: /your-repo-name
-  
-  logoUrl: https://docs.advancedarmorstands.ir/img/logo.svg
-  faviconSvg: https://docs.advancedarmorstands.ir/img/logo.svg
+
+  #  logoUrl: https://docs.advancedarmorstands.ir/img/logo.svg
+#  faviconSvg: https://docs.advancedarmorstands.ir/img/logo.svg
+  logoUrl:
+  faviconSvg: 
   name: AdvancedArmorStands
   introTitle: "A better way to create and customize armor stands."
   introMessage: ""
