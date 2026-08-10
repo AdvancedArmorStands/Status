@@ -16,14 +16,12 @@ status-website:
   # themeUrl: https://status.advancedarmorstands.ir/index.css
   # baseUrl: /your-repo-name
 
-  #  logoUrl: https://docs.advancedarmorstands.ir/img/logo.svg
-#  faviconSvg: https://docs.advancedarmorstands.ir/img/logo.svg
-  logoUrl:
-  faviconSvg: 
+  logoUrl: https://docs.advancedarmorstands.ir/img/logo.svg
+  faviconSvg: https://docs.advancedarmorstands.ir/img/logo.svg
   name: AdvancedArmorStands
   introTitle: "A better way to create and customize armor stands."
   introMessage: ""
-  themeUrl: https://status.advancedarmorstands.ir/better.css
+#  themeUrl: https://status.advancedarmorstands.ir/better.css
  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
